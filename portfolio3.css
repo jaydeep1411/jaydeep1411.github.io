@@ -216,7 +216,7 @@ body{
 .portfolio .row .box{
 	height: 250px;
 	/*background-image: url("https://themefisher.com/wp-content/uploads/2018/10/bexer-business-theme.jpg");*/
-	background-image: url("../Images/web.png");
+	background-image: url("web.png");
 	background-position: center;
 	background-size: cover; 
 }
